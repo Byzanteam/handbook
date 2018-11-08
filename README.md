@@ -1,5 +1,13 @@
 # Handbook of Byzantium
 
+## Sections
+- [Values](https://github.com/ByzantiumTeam/handbook#values)
+- [Getting Started](https://github.com/ByzantiumTeam/handbook/blob/master/getting-started.md)
+- [Working context](https://github.com/ByzantiumTeam/handbook/blob/master/working-context.md)
+- [GitHub flow](https://github.com/ByzantiumTeam/handbook/blob/master/github-flow.md)
+- [How to build](https://github.com/ByzantiumTeam/handbook/blob/master/how-to-build.md)
+
+
 ## Values
 
 ### 平等
