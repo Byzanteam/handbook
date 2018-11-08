@@ -21,8 +21,31 @@
 master 分支作为线上运行的版本，初步定在让运维来发 release。
 
 
+### Commit 格式
 
+```log
+1. commit message
+2. 空行
+3. trello/sentry/issue/jira link
+4. comments
+```
+如：
+```log
+Use size helper of popover instead of styles
 
+https://trello.com/c/yIglLjvq
+```
+
+```shell
+# add it to profile(如：~/.zshrc)
+alias gclc='git commit -v --reset-author -c `git log --pretty=%H -n1`'
+```
+
+### Pull Request 格式
+1. 以 `jira` 对应的 card 的 title 作为标题
+1. 描述里面附加本次 PR 的说明
+1. 描述里面附加 `jira` 对应 card 的 link
+1. 适当添加一些 todo list
 
 #### 参考：
 - https://guides.github.com/introduction/flow/
