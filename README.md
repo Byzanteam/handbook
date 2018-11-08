@@ -1,8 +1,9 @@
 # Handbook of Byzantium
 
 ## Sections
-- [Values](https://github.com/ByzantiumTeam/handbook#values)
+- [Values](#values)
 - [Getting Started](https://github.com/ByzantiumTeam/handbook/blob/master/getting-started.md)
+- [New crew](https://github.com/ByzantiumTeam/handbook/blob/master/new-crew.md)
 - [Working context](https://github.com/ByzantiumTeam/handbook/blob/master/working-context.md)
 - [GitHub flow](https://github.com/ByzantiumTeam/handbook/blob/master/github-flow.md)
 - [How to build](https://github.com/ByzantiumTeam/handbook/blob/master/how-to-build.md)
