@@ -24,14 +24,27 @@ master 分支作为线上运行的版本，初步定在让运维来发 release�
 ### Commit 格式
 
 ```log
-第一行写简短的描述
-第二行为空行
-第三行贴一下相关的链接（jira 或 issue 等的）
-第四行以后可以写更多的东西
+第一行 <type>: 写简短的描述 (<scope>)
+第二行 为空行
+第三行 贴一下相关的链接（jira 或 issue 等的）
+第四行 以后可以写更多的东西
 ```
-如：
+type（必填）:
 ```log
-Use size helper of popover instead of styles
+feat: 新功能
+fix：修补bug
+docs：文档（documentation）
+style： 格式（不影响代码运行的变动）
+refactor：重构（即不是新增功能，也不是修改bug的代码变动）
+test：增加测试
+chore：构建过程或辅助工具的变动
+```
+scope（可选）:
+ 比如fix涉及的范围 组件名、文件名等等逗号分隔
+
+例子：
+```log
+fix: Inclusion of target platform configuration on installation script (A,B,C)
 
 https://trello.com/c/yIglLjvq
 ```
