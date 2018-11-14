@@ -24,14 +24,27 @@ master 分支作为线上运行的版本，初步定在让运维来发 release�
 ### Commit 格式
 
 ```log
-1. commit message
-2. 空行
-3. trello/sentry/issue/jira link
-4. comments
+第一行 <type>: 写简短的描述 (<scope>)
+第二行 为空行
+第三行 贴一下相关的链接（jira 或 issue 等的）
+第四行 以后可以写更多的东西
 ```
-如：
+type（必填）:
 ```log
-Use size helper of popover instead of styles
+feat: 新功能
+fix：修补bug
+docs：文档（documentation）
+style： 格式（不影响代码运行的变动）
+refactor：重构（即不是新增功能，也不是修改bug的代码变动）
+test：增加测试
+chore：构建过程或辅助工具的变动
+```
+scope（可选）:
+ 比如fix涉及的范围 组件名、文件名等等逗号分隔
+
+例子：
+```log
+fix: Inclusion of target platform configuration on installation script (A,B,C)
 
 https://trello.com/c/yIglLjvq
 ```
@@ -48,5 +61,6 @@ alias gclc='git commit -v --reset-author -c `git log --pretty=%H -n1`'
 1. 适当添加一些 todo list
 
 #### 参考：
-- https://guides.github.com/introduction/flow/
-- https://jeffkreeftmeijer.com/git-flow/
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
+- [Git工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
