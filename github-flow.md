@@ -5,7 +5,8 @@
 主分支是 `develop`，线上分支为 `master`（生产环境）.
 
 ## 如何开始工作
-1. 先讲 repo `fork` 到自己账号下
+
+1. 先将 repo `fork` 到自己账号下
 1. 然后开新分支进行开发
 1. 开发完毕后 push 到自己的 repo
 1. 到 GitHub 提交 `Pull Request`，打上对应的 `label`，然后 request 对应的同事 review
@@ -18,33 +19,23 @@
   - CodeClimate 的 issues 原则上不能自己点通过，一定是和团队协商通过，或者修改 rules
 
 ### Master Branch
-master 分支作为线上运行的版本，初步定在让运维来发 release。
 
+master 分支作为线上运行的版本，初步定在让运维来发 release。
 
 ### Commit 格式
 
 ```log
-第一行 <type>: 写简短的描述 (<scope>)
+第一行 简短的描述，建议以开头动词 (<scope>)
 第二行 为空行
 第三行 贴一下相关的链接（jira 或 issue 等的）
 第四行 以后可以写更多的东西
-```
-type（必填）:
-```log
-feat: 新功能
-fix：修补bug
-docs：文档（documentation）
-style： 格式（不影响代码运行的变动）
-refactor：重构（即不是新增功能，也不是修改bug的代码变动）
-test：增加测试
-chore：构建过程或辅助工具的变动
 ```
 scope（可选）:
  比如fix涉及的范围 组件名、文件名等等逗号分隔
 
 例子：
 ```log
-fix: Inclusion of target platform configuration on installation script (A,B,C)
+Integrate immutable.js (A,B,C)
 
 https://trello.com/c/yIglLjvq
 ```
