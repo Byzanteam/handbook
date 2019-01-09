@@ -1,4 +1,4 @@
-# Handbook of Byzantium
+# Handbook of Byzanteam
 
 ## Sections
 - [Values](#values)
