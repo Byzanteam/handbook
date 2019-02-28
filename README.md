@@ -1,3 +1,5 @@
+![LOGO](../misc/logo.png)
+
 # Handbook of Byzanteam
 
 ## Sections
