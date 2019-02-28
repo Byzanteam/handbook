@@ -13,6 +13,7 @@
 - [GitHub flow](https://github.com/Byzanteam/handbook/blob/master/github-flow.md)
 - [How to build](https://github.com/Byzanteam/handbook/blob/master/how-to-build.md)
 - [Making a career](https://github.com/Byzanteam/handbook/blob/master/making-a-career.md)
+- [Open Source](https://github.com/Byzanteam-Labs)
 
 
 ## Values
