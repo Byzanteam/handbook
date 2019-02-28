@@ -7,7 +7,7 @@
 - [ ] 绑定 OA
 - [ ] 领取电脑
 - [ ] Jira
-- [ ] Google Suit
+- [ ] Google Suite
 - [ ] GitHub
 
 ### 入职分享
