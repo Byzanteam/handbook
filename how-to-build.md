@@ -11,10 +11,10 @@
 
 我提供一些基本的 CLI 功能
 
-make init: 初始化项目及环境
-make build: build 项目（如果需要，如前端的 assets precompile 等）
-make test: 运行测试
-make run: 运行项目
+- make init: 初始化项目及环境
+- make build: build 项目（如果需要，如前端的 assets precompile 等）
+- make test: 运行测试
+- make run: 运行项目
 
 
 ### 构建容器
@@ -31,3 +31,8 @@ make run: 运行项目
 - how to run
 - how to build
 - how to deploy
+
+
+### CI
+- CodeClimate：代码质量检测
+- CircleCI：自动测试
