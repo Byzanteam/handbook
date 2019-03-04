@@ -36,3 +36,5 @@
 ### CI
 - CodeClimate：代码质量检测
 - CircleCI：自动测试
+  - 单元测试等
+  - 覆盖率
