@@ -23,7 +23,7 @@
 master 分支作为线上运行的版本，初步定在让运维来发 release。
 
 ### Commit 格式
-
+can
 提交信息首行简要描述该提交涉及的改动，建议以动词开头。如需添加相关 `issue` 或 `jira` 任务的链接，须与首行之间保留一个空行，从第三行开始。可参考以下格式：
 ```log
 第一行 [<type>:] 简要描述该提交涉及的改动，建议以开头动词 [(<scope>)]
@@ -66,3 +66,4 @@ alias gclc='git commit -v --reset-author -c `git log --pretty=%H -n1`'
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 - [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
 - [Git工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+- [Conventional Commits](https://www.conventionalcommits.org)
