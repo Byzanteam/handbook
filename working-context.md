@@ -22,3 +22,4 @@
 
 ## 科学上网工具
 - https://nssurge.com/ (iOS，macOS)
+- https://github.com/yichengchen/clashX/ （macOS）
