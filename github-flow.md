@@ -61,6 +61,7 @@ alias gclc='git commit -v --reset-author -c `git log --pretty=%H -n1`'
 1. 描述里面附加本次 PR 的说明
 1. 描述里面附加 `jira` 对应 card 的 link
 1. 适当添加一些 todo list
+1. 尽量使用 [squash merge](https://github.com/conventional-changelog/standard-version#should-i-always-squash-commits-when-merging-prs)
 
 #### 参考：
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
