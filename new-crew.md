@@ -3,10 +3,10 @@
 欢迎你加入我们
 
 ### 开始工作前的 Checklist
-- [ ] 企业邮箱
-- [ ] 绑定 OA
+- [ ] 团队邮箱
+- [ ] ~~绑定 OA~~
 - [ ] 领取电脑
-- [ ] Jira
+- [ ] Jet
 - [ ] Google Suite
 - [ ] GitHub
 
