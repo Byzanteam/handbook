@@ -9,7 +9,8 @@
 ### 任职要求
 1. 计算机或相关专业本科及以上学历，2 年以上互联网前端开发工作经验
 2. 熟悉 HTML5、CSS3、ES6/7/8 等规范
-3. 熟悉至少一种 MVVM 框架（React/Vue/NG），并有实际项目经验
+3. 熟悉至少一种 MVVM 框架（React/Vue/Angular），并有实际项目经验
+4. 具备利用框架独立设计开发组件的能力
 4. 熟练掌握至少一种 less、sass(scss) 或 stylus 等 CSS 预编译语言
 5. 熟练使用浏览器调试工具调试前端代码
 6. 熟悉 webpack 或者 rollup 等打包工具，并有一定的调优能力
@@ -23,4 +24,5 @@
 2. 熟悉前端测试，拥抱 TDD
 3. 熟悉 Nodejs、Python、Go 等任意后端编程语言
 4. 有良好的规范意识，熟知 CI/CD 理念，能够通过持续集成提升工作效率
-5. 熟悉 Photoshop 或 Sketch 等任意设计软件                                                           
+5. 熟悉 Photoshop 或 Sketch 等任意设计软件
+5. 熟悉 AST
