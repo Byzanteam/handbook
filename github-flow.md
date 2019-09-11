@@ -148,3 +148,4 @@ card / issue url
 - [Git工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 - [Conventional Commits](https://www.conventionalcommits.org)
 - [gitmoji - An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
+- [Developing AngularJS](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
