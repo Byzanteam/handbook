@@ -23,3 +23,6 @@
 1. 搭配使用 [Emacs key bindings](https://pqrs.org/osx/karabiner/complex_modifications/#emacs_key_bindings) 中的
     1. 「Emacs key bindings [option+keys]」实现 `option + b` 向后移动一个词/`option + f` 向前移动一个词
     1. 「Bash style Emacs key bindings (rev 2)」实现 `ctrl + a` 移至行首/`ctrl + e` 移至行尾
+
+### 其他
+- https://github.com/serhii-londar/open-source-mac-os-apps
