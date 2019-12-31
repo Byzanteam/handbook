@@ -6,8 +6,8 @@
 
 ``` go
 var (
-	days     					int64 
-  elapsedTimeInDays int64
+        days              int64 
+        elapsedTimeInDays int64
 )
 ```
 
@@ -38,7 +38,7 @@ class Person(object):
     ...
 ```
 
-** Person** 这个 `model` 等两个函数对人很不友好，可以改写成：
+**Person** 这个 `model` 等两个函数对人很不友好，可以改写成：
 
 ``` py
 class Person(object):
