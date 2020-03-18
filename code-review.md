@@ -17,6 +17,9 @@ REQUIRED: 如果 `@value` 没有改变，不应该 emit `valueChanged` 出去
 可以在 https://github.com/settings/replies 建立快捷回复
 
 ## Review
+
+> 在别人 review 前，先进行一次*自我审阅*，打开 file diff，忘记代码是自己写的，以旁人的心态仔细斟酌，审阅逻辑和格式，效果会异常好。
+
 1. 谁提交的 PR，谁负责推进合并
 1. 如果找不到人 review，request @fahchen review
 1. 确定谁 review 了，请提交者跟进 reviewer（有可能 reviewer 手里有其他事情，提交者要及时追一下，甚至约一下时间一起 review）
