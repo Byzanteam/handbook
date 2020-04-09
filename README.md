@@ -13,6 +13,7 @@
 - [GitHub flow](https://github.com/Byzanteam/handbook/blob/master/github-flow.md)
 - [Naming things during coding](https://github.com/Byzanteam/handbook/blob/master/naming-things.md)
 - [How to build](https://github.com/Byzanteam/handbook/blob/master/how-to-build.md)
+- [How to Log a Log](https://github.com/Byzanteam/handbook/blob/master/how-to-log-a-log.md)
 - [Making a career](https://github.com/Byzanteam/handbook/blob/master/making-a-career.md)
 - [We ❤️ Open Source](https://github.com/Byzanteam-Labs)
 
