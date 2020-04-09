@@ -81,4 +81,23 @@
 | Debug  | Debug  | DEBUG  | Logs that are used for interactive investigation during development. These logs should primarily contain information useful for debugging and have no long-term value. |
 | Trace  | Verbose  | ALL  | Logs that contain the most detailed messages. These messages may contain sensitive application data. These messages are disabled by default and should never be enabled in a production environment. |
 
-5. 不记录敏感信息，例如用户的密码、应用的 secret
+5. 不记录敏感信息或者过滤掉敏感信息，例如用户的密码、应用的 secret
+```json
+{
+    "dt": "2019-02-04T12:23:34Z",
+    "level": "info",
+    "message": "Completed 200 OK in 79ms (Views: 78.8ms | ActiveRecord: 0.0ms)",
+    "context": {
+        "host": "34.235.155.83",
+        "user_id": 5,
+        "user_phone": "[FILTERED]"
+        "path": "/welcome",
+        "method": "GET"
+    },
+    "http_response_sent": {
+        "status": 200,
+        "duration_ms": 79.0,
+        "view_ms": 78.8,
+        "active_record_ms": 0.0
+    }
+}
