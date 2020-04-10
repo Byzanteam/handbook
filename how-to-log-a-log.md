@@ -90,7 +90,7 @@
     "context": {
         "host": "34.235.155.83",
         "user_id": 5,
-        "user_phone": "[FILTERED]"
+        "user_phone": "[FILTERED]",
         "path": "/welcome",
         "method": "GET"
     },
