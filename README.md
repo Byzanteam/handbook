@@ -6,6 +6,7 @@
 
 ## Sections
 - [Values](#values)
+- [About us](https://github.com/Byzanteam/handbook/blob/master/about-us.md)
 - [Getting Started](https://github.com/Byzanteam/handbook/blob/master/getting-started.md)
 - [Working context](https://github.com/Byzanteam/handbook/blob/master/working-context.md)
 
