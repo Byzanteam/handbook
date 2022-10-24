@@ -3,13 +3,13 @@
 ### diagrams editor
 - [mermaid](https://mermaidjs.github.io/) (Web)，编辑器地址：https://mermaidjs.github.io/mermaid-live-editor
 - [ASCIIFlow](http://asciiflow.com) (web)，用于生成 ASCII diagrams，可以方便地放入文档等
-- [Monodraw](https://monodraw.helftone.com) (MacOs) ASCII art editor
+- [Monodraw](https://monodraw.helftone.com) (macOS) ASCII art editor
 
 ### markdown 编辑器
-- [typora](https://typora.io/) (MacOS)
+- [typora](https://typora.io/) (macOS)
 
 ### mindmap 编辑器
-- [MindNode](https://mindnode.com/) (MacOS)
+- [MindNode](https://mindnode.com/) (macOS)
 
 ### quick-start 快速启动
 - [Raycast](http://raycast.com)，快速启动工具

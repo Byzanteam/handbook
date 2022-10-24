@@ -7,13 +7,19 @@
 ## Sections
 - [Values](#values)
 - [Getting Started](https://github.com/Byzanteam/handbook/blob/master/getting-started.md)
-- [New crew](https://github.com/Byzanteam/handbook/blob/master/new-crew.md)
 - [Working context](https://github.com/Byzanteam/handbook/blob/master/working-context.md)
-- [Tools](https://github.com/Byzanteam/handbook/blob/master/tools.md)
+
+### Coding
 - [GitHub flow](https://github.com/Byzanteam/handbook/blob/master/github-flow.md)
-- [Naming things during coding](https://github.com/Byzanteam/handbook/blob/master/naming-things.md)
-- [How to build](https://github.com/Byzanteam/handbook/blob/master/how-to-build.md)
-- [How to Log a Log](https://github.com/Byzanteam/handbook/blob/master/how-to-log-a-log.md)
+- [Code Comment](https://github.com/Byzanteam/handbook/blob/master//howto/code-comment.md)
+- [Code Review](https://github.com/Byzanteam/handbook/blob/master//howto/code-review.md)
+- [Naming things during coding](https://github.com/Byzanteam/handbook/blob/master/howto/naming-things.md)
+- [How to build](https://github.com/Byzanteam/handbook/blob/master/howto/how-to-build.md)
+- [How to Log a Log](https://github.com/Byzanteam/handbook/blob/master/howto/how-to-log-a-log.md)
+
+### Misc
+- [How to host a meetup](https://github.com/Byzanteam/handbook/blob/master/howto/host-a-meetup.md)
+- [Tools](https://github.com/Byzanteam/handbook/blob/master/tools.md)
 - [Making a career](https://github.com/Byzanteam/handbook/blob/master/making-a-career.md)
 - [We ❤️ Open Source](https://github.com/Byzanteam-Labs)
 
