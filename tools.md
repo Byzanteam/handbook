@@ -1,7 +1,9 @@
 # Tools
 
-### flow charts
+### diagrams editor
 - [mermaid](https://mermaidjs.github.io/) (Web)，编辑器地址：https://mermaidjs.github.io/mermaid-live-editor
+- [ASCIIFlow](http://asciiflow.com) (web)，用于生成 ASCII diagrams，可以方便地放入文档等
+- [Monodraw](https://monodraw.helftone.com) (MacOs) ASCII art editor
 
 ### markdown 编辑器
 - [typora](https://typora.io/) (MacOS)
@@ -10,6 +12,7 @@
 - [MindNode](https://mindnode.com/) (MacOS)
 
 ### quick-start 快速启动
+- [Raycast](http://raycast.com)，快速启动工具
 - [Alfred](https://www.alfredapp.com)，推荐搭配 Karabiner-Elements，将 Alfred 的启动键更改为 `CapsLock` 键或者 `Control（双击）`
 
 ### documents 文档查看
