@@ -10,9 +10,9 @@
 - [Working context](https://github.com/Byzanteam/handbook/blob/master/working-context.md)
 
 ### Coding
-- [GitHub flow](https://github.com/Byzanteam/handbook/blob/master/github-flow.md)
-- [Code Comment](https://github.com/Byzanteam/handbook/blob/master//howto/code-comment.md)
-- [Code Review](https://github.com/Byzanteam/handbook/blob/master//howto/code-review.md)
+- [GitHub flow](https://github.com/Byzanteam/handbook/blob/master/howto/github-flow.md)
+- [Code Comment](https://github.com/Byzanteam/handbook/blob/master/howto/code-comment.md)
+- [Code Review](https://github.com/Byzanteam/handbook/blob/master/howto/code-review.md)
 - [Naming things during coding](https://github.com/Byzanteam/handbook/blob/master/howto/naming-things.md)
 - [How to build](https://github.com/Byzanteam/handbook/blob/master/howto/how-to-build.md)
 - [How to Log a Log](https://github.com/Byzanteam/handbook/blob/master/howto/how-to-log-a-log.md)
