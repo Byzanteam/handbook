@@ -2,7 +2,7 @@
 
 > 基于 [git-flow](https://github.com/nvie/gitflow)
 
-主分支是 `develop`，线上分支为 `master`（生产环境）.
+主分支是 `develop`，线上分支为 `main`（生产环境）.
 
 ## 如何开始工作
 
@@ -18,9 +18,9 @@
 - 经过 CodeClimate 和 单元测试（CircleCI）
   - CodeClimate 的 issues 原则上不能自己点通过，一定是和团队协商通过，或者修改 rules
 
-### Master Branch
+### Main Branch
 
-master 分支作为线上运行的版本，初步定在让运维来发 release。
+main 分支作为线上运行的版本，初步定在让运维来发 release。
 
 ### Commit 格式
 can
