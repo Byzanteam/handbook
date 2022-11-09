@@ -16,3 +16,7 @@
 #dev #tool
 
 https://missing-semester-cn.github.io
+
+## 区块链资源
+#blockchain
+https://github.com/chaozh/awesome-blockchain-cn/blob/master/README.md
