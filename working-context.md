@@ -18,3 +18,7 @@
 ## 科学上网工具
 - https://nssurge.com/ (iOS，macOS)
 - https://github.com/yichengchen/clashX/ （macOS）
+
+## 其他
+- [参与者公约](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/)
+- [职场反性骚扰开源工具包](https://shimo.im/docs/cyKNXnV22GUEoiWT/read)
