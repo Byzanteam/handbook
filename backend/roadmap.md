@@ -8,6 +8,7 @@
 - [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 - [The Art of PostgreSQL](https://theartofpostgresql.com)
 - [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+- [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
 ### 关系型数据库中的范式
 - [Normalization of Database](https://www.studytonight.com/dbms/database-normalization.php)
 ### 数据库索引
