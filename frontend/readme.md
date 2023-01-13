@@ -2,9 +2,10 @@
 
 ## 前端学习路径
 
-[Roadmap](https://github.com/Byzanteam/handbook/blob/main/frontend/roadmap.md)
+[Roadmap](./roadmap.md)
 
-## [好用的依赖推荐](./recommend-deps.md)
+## 好用的依赖推荐
+[Recommend Dependencies](./recommend-deps.md)
 
 ## 前端项目 Lint 工具通用配置
 
