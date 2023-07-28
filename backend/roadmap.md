@@ -43,7 +43,7 @@
 - [How to Write 3v1L, Untestable Code](https://testing.googleblog.com/2008/07/how-to-write-3v1l-untestable-code.html)
 
 ## 正则表达式
-- [https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags]
+- [https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
 
 ## 编码
 - [Character Encodings 101](https://notes.burke.libbey.me/character-encodings-101/)
